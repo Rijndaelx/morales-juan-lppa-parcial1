@@ -60,6 +60,11 @@ body {
     width: 78%;
 }
 
+#backgroundImage{
+    align-content:center;
+    margin-top:10px;
+}
+
 #sectionContenido #asideSecundario {
     float: right;
     width: 20%;
@@ -118,8 +123,6 @@ body {
     text-decoration: none;
 }
 
-
-
 #cabeceraHeader h1 {
     background: url(../../Content/logo.png) no-repeat 0px 0px;
     width: 170px;
@@ -145,7 +148,7 @@ body {
 
 #sectionContenido #asideSecundario {
     width: 20%;
-    border: 1px solid #d41010;
+    border: 1px solid #53bfe8;
 }
 
 #asideSecundario h2 {

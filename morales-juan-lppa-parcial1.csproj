@@ -143,6 +143,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\background.jpeg" />
     <Content Include="Content\logo.png" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
